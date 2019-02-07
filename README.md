@@ -1,4 +1,4 @@
-# projects
+# Projects
 Independent projects for practicing data science and demonstrating skills.
 
-Includeds a Spotify API Reccomender, Pitchfork Reveiw Exploration, Dungeons & Dragons Analysis, Congressional District Heatmap
+Includes Pitchfork Album Reveiw Exploration, Spotify API Reccomender, Dungeons & Dragons Analysis, Congressional District Heatmap
